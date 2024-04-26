@@ -1,4 +1,5 @@
 <?php
+//Create a folder core and store the scripts within it
 include '../core/config.php';
 
 //Creating session
